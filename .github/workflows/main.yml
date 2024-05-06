@@ -11,4 +11,4 @@ jobs:
         with:
           project: MCCE4 Development Roadmap
           column: In Progress
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.MCCE4_WORKFLOW }}
