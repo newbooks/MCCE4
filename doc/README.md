@@ -10,7 +10,7 @@ MCCE4 will also
 ## MCCE4 Documentation
 
 ### Feature requests
-[This section](Features) lists the proposed features and fixes. MCCE4 will keep the 4 step workflow of Stable-MCCE so the features will be categorized into:
+[This section](Features.md) lists the proposed features and fixes. MCCE4 will keep the 4 step workflow of Stable-MCCE so the features will be categorized into:
   * step 0: evaluate the input structure
   * step 1: pre-mcce run: strip off water, identify ligands, split terminal residues and big cofactors into independent ionizable groups.
   * step 2: make side chain conformers
