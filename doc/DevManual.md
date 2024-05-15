@@ -114,3 +114,6 @@ It's inevitable you will run into conflicts when you pull from remote or merge b
 Also it is possible to install other diff tools and configure with merge tool. On Ubuntu Linux, the default diffe tool is vimdiff, but one can reconfigure git to use a GUI diff like meld if installed.
 
 `git config merge.tool meld`
+
+---
+[Home](README.md) | [Feature Requests](Features.md) | [Developer Manual](DevManual.md) | [User Manual](UserManual.md)
