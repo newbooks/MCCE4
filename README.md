@@ -10,6 +10,10 @@ Feel free to add features in this section
  
 ## Program structure
 
-## MCCE4 Wiki
-MCCE4 Wiki is maintained in folder wiki under repository
-Update the wiki
+## MCCE4 Documentation
+Formal documentation is maintained under doc.
+
+Informal discussion is in [discussion board](https://github.com/GunnerLab/MCCE4/discussions)
+
+
+
