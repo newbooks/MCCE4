@@ -13,5 +13,3 @@ Documentation on writing and using code is maintained under [doc](doc).
 
 Developer discussion is in [discussion board](https://github.com/GunnerLab/MCCE4/discussions)
 
-
-

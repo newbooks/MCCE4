@@ -20,12 +20,8 @@ MCCE4 will also
   * web front: web interface to a mcce server
 
 ### Devloper Manual
-[This section](DevManual) provides brief description of the data structure and function usage with examples so that other developers can use them to build their code.
+[This section](DevManual.md) provides brief description of the data structure and function usage with examples so that other developers can use them to build their code.
 
 ### User Manual
-[This section](UserManual) provides detailed and organized description to MCCE program and tools with working examples.
-
-
-## Getting involved
-Developers and testers may request wiki edit permission by submitting an issue in MCCE Repo https://github.com/GunnerLab/MCCE4/issues/new with title "Request MCCE4 wiki edit permission." 
-
+[This section](UserManual.md) provides detailed and organized description to MCCE program and tools with working examples.
+ 
