@@ -9,9 +9,9 @@ New MCCE version development. In this development cycle, code will be pure Pytho
 Feel free to add features in [this section](doc/Features.md)
  
 ## MCCE4 Documentation
-Formal documentation is maintained under [doc](doc).
+Documentation on writing and using code is maintained under [doc](doc).
 
-Informal discussion is in [discussion board](https://github.com/GunnerLab/MCCE4/discussions)
+Developer discussion is in [discussion board](https://github.com/GunnerLab/MCCE4/discussions)
 
 
 
