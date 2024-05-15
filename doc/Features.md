@@ -79,3 +79,6 @@ Convert input structure to MCCE format, label terminal residues and ligands.
 
 
 ## Step 2
+
+---
+[Home](README.md) | [Feature Requests](Features.md) | [Developer Manual](DevManual.md) | [User Manual](UserManual.md)
